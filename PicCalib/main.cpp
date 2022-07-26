@@ -18,9 +18,9 @@ bool runCalibrationAndSave(Settings& s, Size imageSize, Mat&  cameraMatrix, Mat&
 	std::vector<std::vector<cv::Point2f> > imagePoints);
 
 int main(int argc, char** argv) {
-	//std::string cur_dir = exe_path();
-	//std::cout << cur_dir  <<std::endl;
-	std::cout <<  cv::getBuildInformation().c_str() << endl;
+	std::string cur_dir = exe_path();
+	std::cout << cur_dir  <<std::endl;
+	//std::cout <<  cv::getBuildInformation().c_str() << endl;
 	
 	std::string str1 = string_format("%d", 3);
 	std::string fnbasis = get_timestring();
