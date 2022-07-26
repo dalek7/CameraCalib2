@@ -4,6 +4,7 @@ CMakeList Project
 ### Tested environment
 * Ubuntu 20.04.1
 * OpenCV 3.4.15 
+* VSCode
 
 ## Examples
 ```xml
