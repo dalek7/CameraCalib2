@@ -27,7 +27,8 @@
 <!--<Input>"../examples/20210902_calib_hyejoo_note20_1280"</Input>-->
   <!--<Input>"../examples/20210902_calib_hzoo_note20_1280v"</Input>-->
  <!-- <Input>"../examples/WIN_20220414_15_34_15_Pro_capture-small-check2"</Input> --><!-- oCam 캡쳐 작은 것 20220414-->
-<Input>"../../examples/20220719_S20_calibration_small"</Input>
+<!--<Input>"../../data/20220719_S20_calib_small"</Input>-->
+<Input>"../../data/20220719_S21_calib_small"</Input>
 
 
   <!--<Input>"../images/20200602_logitech"</Input>-->
