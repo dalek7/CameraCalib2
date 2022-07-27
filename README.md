@@ -27,5 +27,5 @@ CMakeList Project
 
 ```
 
-<img src='PicCalib/screenshot/20220726_220800_4001/24.jpg'><br/>
-<img src='PicCalib/screenshot/20220726_220800_4001/24_undist.jpg'>
+<img src='PicCalib/screenshot/20220726_220800_4001/24.jpg' width = '500px'><br/>
+<img src='PicCalib/screenshot/20220726_220800_4001/24_undist.jpg' width = '500px'>
